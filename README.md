@@ -8,16 +8,9 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Get the independent variable X and dependent variable Y.
-2.Calculate the mean of the X -values and the mean of the Y -values.
-3.Find the slope m of the line of best fit using the formula.
-<img width="350" height="192" alt="Screenshot 2026-05-11 093010" src="https://github.com/user-attachments/assets/8919864a-bb15-4a0a-9915-f5b6c961c939" />
+1.Load the Dataset:Import the employee churn dataset using Python libraries. 2.Preprocess the Data:Convert categorical data into numerical format and separate features and target values. 3.Split the Dataset:Divide the dataset into training and testing sets. 4.Train the Decision Tree Classifier:Create and train the Decision Tree model using training data. 5.Predict and Evaluate:Predict employee churn and calculate model accuracy using test data
 
-4.Compute the y -intercept of the line by using the formula:
-
-<img width="312" height="62" alt="Screenshot 2026-05-11 093018" src="https://github.com/user-attachments/assets/cdf221d4-2dcf-40a9-bc80-b4833ee145d7" />
-
-5.Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
+Program:
 
 ## Program:
 ```
